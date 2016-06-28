@@ -9,7 +9,7 @@ Abstract: Finding repeated patterns or motifs in a time series is an important u
 http://arxiv.org/abs/1511.04986
 
 
-To compile, you'll need to run "python build.py <folder>" and have gcc installed. There is also a python wrapper for running the compiled binary in the bin/ folder.
+To compile, you'll need to run "python build.py folder" and have gcc installed. There is also a python wrapper for running the compiled binary in the bin/ folder.
 
 If using this code, parts of it, or developments of it, please cite the above reference. We do not provide any support or assistance for the supplied code nor we offer any other compilation/variant of it. In addition, we assume no responsibility regarding the provided code.
 
